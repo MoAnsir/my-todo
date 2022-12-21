@@ -13,9 +13,7 @@
   },
   "Todo": {
     "title": { "string": {} },
-    "userId": {
-      "number": {}
-    },
+    "userId": { "int": {} },
     "completed": { "boolean": {} }
   }
 }
