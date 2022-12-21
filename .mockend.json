@@ -10,5 +10,12 @@
     "post": {
       "belongsTo": "Post"
     }
+  },
+  "Todo": {
+    "title": { "string": {} },
+    "userId": {
+      "number": {}
+    },
+    "completed": { "boolean": {} }
   }
 }
